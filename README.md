@@ -291,3 +291,32 @@ docker compose down -v --remove-orphans
 - **Performance** : Les conteneurs utilisent des images optimisées (Alpine)
 - **Monitoring** : Surveillez les logs pour identifier les problèmes
 - **Scalabilité** : L'architecture permet facilement l'ajout de nouveaux services
+
+## Bonus ()
+Use your crud-master services for the solution of this project.
+
+If you complete the mandatory part successfully, and you still have free time, you can implement anything that you feel deserves to be a bonus.
+
+Challenge yourself!
+
+
+Does the README.md file contain all the required information to run and manage the solution (prerequisites, configuration, setup, usage, etc)?
+
+
+What are containers and what are their advantages?
+
+What is the difference between containers and virtual machines?
+
+What is Docker and what is it used for?
+
+What is a microservices' architecture?
+
+Why do we use microservices architecture?
+
+What is a queue and what is it used for?
+
+What is RabbitMQ?
+
+What is a Dockerfile?
+
+Explain the instructions used on the Dockerfile.
