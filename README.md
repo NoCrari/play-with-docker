@@ -1,4 +1,4 @@
-# 🐳 Play with Containers
+# 🐳 Play with Docker
 
 Un projet d'apprentissage pratique pour découvrir Docker et les concepts de conteneurisation à travers la création d'une architecture de microservices.
 
